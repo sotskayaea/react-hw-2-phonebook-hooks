@@ -1,8 +1,8 @@
 {
-  "name": "react-hw-2-phonebook",
+  "name": "react-hw-2-phonebook-hooks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-hw-2-phonebook/",
+  "homepage": "https://goitacademy.github.io/react-hw-2-phonebook-hooks/",
   "dependencies": {
     "@material/web": "^1.1.1",
     "@testing-library/jest-dom": "^5.16.3",
